@@ -2,7 +2,7 @@
 ## Setup Instructions
 - Clone the repository
 ```console
-$ git clone <technical_assignment>
+$ git clone https://github.com/Yuyi-hao/technical_assignment_opinium.ai.git
 $ cd technical_assignment
 ```
 - Set environment variable copy `sample.env` into `.env` and set the value of variables
